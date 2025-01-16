@@ -1,0 +1,1 @@
+# Dzialajace bez zadani do samodzielnego wykonanaia — kopia
