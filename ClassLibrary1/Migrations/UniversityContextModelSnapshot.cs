@@ -39,7 +39,7 @@ namespace Data.Migrations
 
                     b.HasIndex("InstructorId");
 
-                    b.ToTable("course");
+                    b.ToTable("course", (string)null);
 
                     b.HasData(
                         new
@@ -77,7 +77,7 @@ namespace Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("instructor");
+                    b.ToTable("instructor", (string)null);
 
                     b.HasData(
                         new
@@ -122,7 +122,7 @@ namespace Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("student");
+                    b.ToTable("student", (string)null);
 
                     b.HasData(
                         new
@@ -165,7 +165,7 @@ namespace Data.Migrations
 
                     b.HasIndex("StudentID");
 
-                    b.ToTable("Enrollments");
+                    b.ToTable("Enrollments", (string)null);
 
                     b.HasData(
                         new

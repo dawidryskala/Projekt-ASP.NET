@@ -19,7 +19,7 @@ namespace Data
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            var path = System.IO.Path.Join(Environment.CurrentDirectory, "university.db");
+            var path = System.IO.Path.Join(Environment.CurrentDirectory, "university1.db");
             options.UseSqlite($"Data Source={path}");
         }
 
@@ -28,7 +28,7 @@ namespace Data
             public UniversityContext CreateDbContext(string[] args)
             {
                 var optionsBuilder = new DbContextOptionsBuilder<UniversityContext>();
-                optionsBuilder.UseSqlite("Data Source=university.db");
+                optionsBuilder.UseSqlite("Data Source=university1.db");
 
                 return new UniversityContext(optionsBuilder.Options);
             }
