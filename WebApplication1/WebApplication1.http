@@ -1,0 +1,24 @@
+﻿@WebApplication1_HostAddress = https://localhost:7209
+
+
+
+
+
+
+
+POST {{WebApplication1_HostAddress}}/api/examapi
+Content-Type: application/json
+{
+  "Name": "Egzamin testowy"
+}
+
+
+
+
+
+
+###
+
+GET {{WebApplication1_HostAddress}}/api/examapi
+
+###

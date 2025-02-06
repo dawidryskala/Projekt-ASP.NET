@@ -39,7 +39,7 @@ namespace Data.Migrations
 
                     b.HasIndex("InstructorId");
 
-                    b.ToTable("course", (string)null);
+                    b.ToTable("course");
 
                     b.HasData(
                         new
@@ -56,6 +56,27 @@ namespace Data.Migrations
                             InstructorId = 2,
                             Title = "Physics"
                         });
+                });
+
+            modelBuilder.Entity("Data.Entities.ExamEntity", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int?>("CourseId")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CourseId");
+
+                    b.ToTable("exam");
                 });
 
             modelBuilder.Entity("Data.Entities.InstructorEntity", b =>
@@ -77,7 +98,7 @@ namespace Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("instructor", (string)null);
+                    b.ToTable("instructor");
 
                     b.HasData(
                         new
@@ -122,7 +143,7 @@ namespace Data.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("student", (string)null);
+                    b.ToTable("student");
 
                     b.HasData(
                         new
@@ -165,7 +186,7 @@ namespace Data.Migrations
 
                     b.HasIndex("StudentID");
 
-                    b.ToTable("Enrollments", (string)null);
+                    b.ToTable("Enrollments");
 
                     b.HasData(
                         new
@@ -193,6 +214,15 @@ namespace Data.Migrations
                         .IsRequired();
 
                     b.Navigation("Instructor");
+                });
+
+            modelBuilder.Entity("Data.Entities.ExamEntity", b =>
+                {
+                    b.HasOne("Data.Entities.CourseEntity", "Course")
+                        .WithMany()
+                        .HasForeignKey("CourseId");
+
+                    b.Navigation("Course");
                 });
 
             modelBuilder.Entity("EnrollmentEntity", b =>

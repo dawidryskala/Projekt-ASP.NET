@@ -17,7 +17,7 @@ namespace Data.Entities
 
         [MaxLength(100)]
         [Required]
-        public string Title { get; set; }
+        public string Title { get; set; } = string.Empty;
 
         [Required]
         public int Credits { get; set; }
@@ -25,8 +25,8 @@ namespace Data.Entities
         [Column("instructor_id")]
         [Required]
         public int InstructorId { get; set; }
-        public virtual InstructorEntity Instructor { get; set; }
-        public ICollection<EnrollmentEntity> Enrollments { get; set; }
+        public virtual InstructorEntity? Instructor { get; set; }
+        public ICollection<EnrollmentEntity> Enrollments { get; set; } = new List<EnrollmentEntity>();
 
 
     }

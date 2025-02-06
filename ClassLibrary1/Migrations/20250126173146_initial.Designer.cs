@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Data.Migrations
 {
     [DbContext(typeof(UniversityContext))]
-    [Migration("20250112182341_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20250126173146_initial")]
+    partial class initial
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -59,6 +59,27 @@ namespace Data.Migrations
                             InstructorId = 2,
                             Title = "Physics"
                         });
+                });
+
+            modelBuilder.Entity("Data.Entities.ExamEntity", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("INTEGER");
+
+                    b.Property<int?>("CourseId")
+                        .HasColumnType("INTEGER");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(50)
+                        .HasColumnType("TEXT");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("CourseId");
+
+                    b.ToTable("exam");
                 });
 
             modelBuilder.Entity("Data.Entities.InstructorEntity", b =>
@@ -196,6 +217,15 @@ namespace Data.Migrations
                         .IsRequired();
 
                     b.Navigation("Instructor");
+                });
+
+            modelBuilder.Entity("Data.Entities.ExamEntity", b =>
+                {
+                    b.HasOne("Data.Entities.CourseEntity", "Course")
+                        .WithMany()
+                        .HasForeignKey("CourseId");
+
+                    b.Navigation("Course");
                 });
 
             modelBuilder.Entity("EnrollmentEntity", b =>

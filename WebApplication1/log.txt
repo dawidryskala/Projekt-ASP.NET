@@ -1,0 +1,1881 @@
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A01%3A36
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A04%3A43
+header = Referer value = https://localhost:7209/
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A04%3A51
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-purpose value = prefetch;prerender
+header = purpose value = prefetch
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A04%3A58
+header = Referer value = https://localhost:7209/
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A05%3A39
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-purpose value = prefetch;prerender
+header = purpose value = prefetch
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A05%3A55
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A07%3A48
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A08%3A00
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-purpose value = prefetch;prerender
+header = purpose value = prefetch
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A08%3A27
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-purpose value = prefetch;prerender
+header = purpose value = prefetch
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A08%3A33
+header = Host value = localhost:44384
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = upgrade-insecure-requests value = 1
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /css/site.css
+-- headers
+header = Accept value = text/css,*/*;q=0.1
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A09%3A22
+header = Host value = localhost:44384
+header = Referer value = https://localhost:44384/
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua-platform value = "Windows"
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = no-cors
+header = sec-fetch-dest value = style
+header = priority value = u=0
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /lib/jquery/dist/jquery.min.js
+-- headers
+header = Accept value = */*
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A09%3A22
+header = Host value = localhost:44384
+header = Referer value = https://localhost:44384/
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua-platform value = "Windows"
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = no-cors
+header = sec-fetch-dest value = script
+header = priority value = u=1
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /favicon.ico
+-- headers
+header = Accept value = image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A09%3A22
+header = Host value = localhost:44384
+header = Referer value = https://localhost:44384/
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua-platform value = "Windows"
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = no-cors
+header = sec-fetch-dest value = image
+header = priority value = u=1, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A09%3A23
+header = Host value = localhost:44384
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = upgrade-insecure-requests value = 1
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /lib/bootstrap/dist/css/bootstrap.min.css
+-- headers
+header = Accept value = text/css,*/*;q=0.1
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A09%3A32
+header = Host value = localhost:44384
+header = Referer value = https://localhost:44384/
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua-platform value = "Windows"
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = no-cors
+header = sec-fetch-dest value = style
+header = priority value = u=0
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /WebApplication1.styles.css
+-- headers
+header = Accept value = text/css,*/*;q=0.1
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A09%3A32
+header = Host value = localhost:44384
+header = Referer value = https://localhost:44384/
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua-platform value = "Windows"
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = no-cors
+header = sec-fetch-dest value = style
+header = priority value = u=0
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /js/site.js
+-- headers
+header = Accept value = */*
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A09%3A32
+header = Host value = localhost:44384
+header = Referer value = https://localhost:44384/
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua-platform value = "Windows"
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = no-cors
+header = sec-fetch-dest value = script
+header = priority value = u=1
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A09%3A32
+header = Host value = localhost:44384
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = upgrade-insecure-requests value = 1
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /lib/bootstrap/dist/js/bootstrap.bundle.min.js
+-- headers
+header = Accept value = */*
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A10%3A01
+header = Host value = localhost:44384
+header = Referer value = https://localhost:44384/
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua-platform value = "Windows"
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = no-cors
+header = sec-fetch-dest value = script
+header = priority value = u=1
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A10%3A01
+header = Host value = localhost:44384
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = upgrade-insecure-requests value = 1
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A10%3A11
+header = Host value = localhost:44384
+header = Referer value = https://localhost:44384/
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = upgrade-insecure-requests value = 1
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Connection value = keep-alive
+header = Host value = localhost:5225
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A10%3A30
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = Sec-Fetch-Site value = none
+header = Sec-Fetch-Mode value = navigate
+header = Sec-Fetch-User value = ?1
+header = Sec-Fetch-Dest value = document
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /lib/bootstrap/dist/css/bootstrap.min.css
+-- headers
+header = Accept value = text/css,*/*;q=0.1
+header = Connection value = keep-alive
+header = Host value = localhost:5225
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A10%3A51
+header = Referer value = http://localhost:5225/
+header = sec-ch-ua-platform value = "Windows"
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = Sec-Fetch-Site value = same-origin
+header = Sec-Fetch-Mode value = no-cors
+header = Sec-Fetch-Dest value = style
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /WebApplication1.styles.css
+-- headers
+header = Accept value = text/css,*/*;q=0.1
+header = Connection value = keep-alive
+header = Host value = localhost:5225
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A10%3A51
+header = Referer value = http://localhost:5225/
+header = sec-ch-ua-platform value = "Windows"
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = Sec-Fetch-Site value = same-origin
+header = Sec-Fetch-Mode value = no-cors
+header = Sec-Fetch-Dest value = style
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /js/site.js
+-- headers
+header = Accept value = */*
+header = Connection value = keep-alive
+header = Host value = localhost:5225
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A10%3A51
+header = Referer value = http://localhost:5225/
+header = sec-ch-ua-platform value = "Windows"
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = Sec-Fetch-Site value = same-origin
+header = Sec-Fetch-Mode value = no-cors
+header = Sec-Fetch-Dest value = script
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /lib/bootstrap/dist/js/bootstrap.bundle.min.js
+-- headers
+header = Accept value = */*
+header = Connection value = keep-alive
+header = Host value = localhost:5225
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A10%3A51
+header = Referer value = http://localhost:5225/
+header = sec-ch-ua-platform value = "Windows"
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = Sec-Fetch-Site value = same-origin
+header = Sec-Fetch-Mode value = no-cors
+header = Sec-Fetch-Dest value = script
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /favicon.ico
+-- headers
+header = Accept value = image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+header = Connection value = keep-alive
+header = Host value = localhost:5225
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A10%3A51
+header = Referer value = http://localhost:5225/
+header = sec-ch-ua-platform value = "Windows"
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = Sec-Fetch-Site value = same-origin
+header = Sec-Fetch-Mode value = no-cors
+header = Sec-Fetch-Dest value = image
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A10%3A52
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = POST
+path = /api/examapi
+-- headers
+header = Host value = localhost:7209
+header = Content-Type value = application/json
+header = Cookie value = UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A01%3A56
+header = traceparent value = 00-1316aaea845e0c1c71faf27f3fe9162b-867662e2f7ffa255-00
+header = Content-Length value = 33
+-- body
+body = {
+  "Name": "Egzamin testowy"
+}
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A11%3A09
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-purpose value = prefetch;prerender
+header = purpose value = prefetch
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /api/examapi
+-- headers
+header = Host value = localhost:7209
+header = Cookie value = UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A11%3A18
+header = traceparent value = 00-2dbfb084027b24d959edf993bcfc1d64-01fd857808e347f6-00
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A11%3A24
+header = Host value = localhost:44384
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = upgrade-insecure-requests value = 1
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A11%3A47
+header = Host value = localhost:44384
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = upgrade-insecure-requests value = 1
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A11%3A55
+header = Host value = localhost:44384
+header = Referer value = https://localhost:44384/
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = upgrade-insecure-requests value = 1
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A12%3A06
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Connection value = close
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A12%3A41
+header = Host value = localhost:44384
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = upgrade-insecure-requests value = 1
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A12%3A58
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A14%3A16
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = POST
+path = /api/examapi
+-- headers
+header = Host value = localhost:7209
+header = Content-Type value = application/json
+header = traceparent value = 00-b201287b4e539e4857e05045f7022d58-e4d102bce688cd3f-00
+header = Content-Length value = 33
+-- body
+body = {
+  "Name": "Egzamin testowy"
+}
+
+=== Request Info ===
+method = GET
+path = /api/examapi
+-- headers
+header = Host value = localhost:7209
+header = Cookie value = UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A14%3A36
+header = traceparent value = 00-33311537ee1dfac26be0ccb92d9c2bd7-488cc9216c220489-00
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A14%3A28
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A22%3A00
+header = Referer value = https://localhost:7209/
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Course
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A22%3A02
+header = Referer value = https://localhost:7209/Student
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Instructor
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A22%3A04
+header = Referer value = https://localhost:7209/Course
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Enrollment
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A22%3A04
+header = Referer value = https://localhost:7209/Instructor
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Enrollment/Create
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A22%3A05
+header = Referer value = https://localhost:7209/Enrollment
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = POST
+path = /Enrollment/Create
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cache-Control value = max-age=0
+header = Content-Type value = application/x-www-form-urlencoded
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A22%3A06; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM
+header = Origin value = https://localhost:7209
+header = Referer value = https://localhost:7209/Enrollment/Create
+header = Upgrade-Insecure-Requests value = 1
+header = Content-Length value = 213
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = CourseID=1&StudentID=1&Grade=5&__RequestVerificationToken=CfDJ8FtE8TGgVhlDq3GNCwUnWuCkZzk2k_MjRLFm991h0nKAhbhSvtGsJ_61YrOimCLvw6FXjMBVvzei2WAkpa84pQ1BR0P6IMlXnxIW5vhtLBD148uYSyJwFXhZtakns8q6Vv_tCSFe-KEVmM_4AIxqmwk
+
+=== Request Info ===
+method = GET
+path = /Enrollment
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cache-Control value = max-age=0
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A22%3A12
+header = Referer value = https://localhost:7209/Enrollment/Create
+header = Upgrade-Insecure-Requests value = 1
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A22%3A12
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A28%3A05
+header = Referer value = https://localhost:7209/
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Course
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A28%3A20
+header = Referer value = https://localhost:7209/Student
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A28%3A21
+header = Referer value = https://localhost:7209/Course
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A28%3A37
+header = Referer value = https://localhost:7209/Student
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; UNIVERSITY_LAST_VISIT=05.02.2025%2020%3A28%3A38
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=05.02.2025%2022%3A52%3A27
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Enrollment
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=05.02.2025%2022%3A53%3A16
+header = Referer value = https://localhost:7209/
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Instructor
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=05.02.2025%2022%3A53%3A18
+header = Referer value = https://localhost:7209/Enrollment
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Course
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=05.02.2025%2022%3A53%3A20
+header = Referer value = https://localhost:7209/Instructor
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=05.02.2025%2022%3A53%3A20
+header = Referer value = https://localhost:7209/Course
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=05.02.2025%2022%3A53%3A21
+header = Referer value = https://localhost:7209/Student
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=05.02.2025%2022%3A53%3A21
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A12%3A26
+header = Referer value = https://localhost:7209/
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A12%3A40
+header = Referer value = https://localhost:7209/Student
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A12%3A42
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-purpose value = prefetch;prerender
+header = purpose value = prefetch
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A12%3A45
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-purpose value = prefetch;prerender
+header = purpose value = prefetch
+header = sec-fetch-site value = none
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A12%3A50
+header = Referer value = https://localhost:7209/
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student/Create
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A12%3A55
+header = Referer value = https://localhost:7209/Student
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = POST
+path = /Student/Create
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cache-Control value = max-age=0
+header = Content-Type value = application/x-www-form-urlencoded
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A12%3A56; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE
+header = Origin value = https://localhost:7209
+header = Referer value = https://localhost:7209/Student/Create
+header = Upgrade-Insecure-Requests value = 1
+header = Content-Length value = 273
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = Id=&Name=asdf&Email=asdf%40gmail.com&IndexNumber=2313sa&Birth=2025-02-12&__Invariant=Birth&__RequestVerificationToken=CfDJ8FtE8TGgVhlDq3GNCwUnWuDDt1TNZs5L3xDQGA6d9uwsQgJ38yW1E38HECDd0JJoirt21syIBe2GyPefoHrvf9dLKVNaZUiIF0MdJjBnu56l_igvTGoBh5qqaOHtscq3BEI1IGIAMRtv6q5U_7YGQNs
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cache-Control value = max-age=0
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A05
+header = Referer value = https://localhost:7209/Student/Create
+header = Upgrade-Insecure-Requests value = 1
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Course
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A05
+header = Referer value = https://localhost:7209/Student
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Instructor
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A07
+header = Referer value = https://localhost:7209/Course
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Enrollment
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A07
+header = Referer value = https://localhost:7209/Instructor
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Enrollment/Create
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A08
+header = Referer value = https://localhost:7209/Enrollment
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = POST
+path = /Enrollment/Create
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cache-Control value = max-age=0
+header = Content-Type value = application/x-www-form-urlencoded
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A08
+header = Origin value = https://localhost:7209
+header = Referer value = https://localhost:7209/Enrollment/Create
+header = Upgrade-Insecure-Requests value = 1
+header = Content-Length value = 214
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = CourseID=1&StudentID=1&Grade=23&__RequestVerificationToken=CfDJ8FtE8TGgVhlDq3GNCwUnWuDoRcYRFeHgqQAdWREKbgm3_XFbC6E9ghu-d30maqGLMDwLcH573KU5udbS6yD_o_MPYXhRScMLM2T6BoOM7AWSRBpPgUiWGQdlphEZe-e6W7TEWcAymG1os0icdstFFNM
+
+=== Request Info ===
+method = GET
+path = /Enrollment
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cache-Control value = max-age=0
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A12
+header = Referer value = https://localhost:7209/Enrollment/Create
+header = Upgrade-Insecure-Requests value = 1
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Instructor
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A12
+header = Referer value = https://localhost:7209/Enrollment
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Course
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A14
+header = Referer value = https://localhost:7209/Instructor
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Instructor
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A19
+header = Referer value = https://localhost:7209/Course
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Enrollment
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A24
+header = Referer value = https://localhost:7209/Instructor
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A25
+header = Referer value = https://localhost:7209/Enrollment
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A28
+header = Referer value = https://localhost:7209/Student
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A29
+header = Referer value = https://localhost:7209/
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /Student
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A30
+header = Referer value = https://localhost:7209/Student
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+
+=== Request Info ===
+method = GET
+path = /
+-- headers
+header = Accept value = text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+header = Host value = localhost:7209
+header = User-Agent value = Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36
+header = Accept-Encoding value = gzip, deflate, br, zstd
+header = Accept-Language value = pl-PL,pl;q=0.9,en-US;q=0.8,en;q=0.7
+header = Cookie value = .AspNetCore.Antiforgery.Xlme4psyzoc=CfDJ8FtE8TGgVhlDq3GNCwUnWuAKvPjUe2414H5cH2MEGVgkv-rlwKoUxixm7pZ5NdyJiRAQLXSWmGJwa2ZK4izdB_Op1jbtigzJozS9rzZbaKZEFoR9GAtDjA-YJ3TCYnCkbl9FgSUZMi8wRqXGF908s3s; .AspNetCore.Antiforgery.nRgybviY1Os=CfDJ8FtE8TGgVhlDq3GNCwUnWuARoM1bUqORRIKPtFJar2-ppY36lMUwE60enygHKko8x4cpz4S2YbjVYKuZGH8hxNd3qyXndryBNlVTFMvuFNCbPQvHsxrWYPcfFTYBaMyzpHGz5jneQvY3OdS7bcWJ5BM; .AspNetCore.Antiforgery.vKRnQ4jnmPg=CfDJ8FtE8TGgVhlDq3GNCwUnWuDHDF3QQ4wSKTHRVQ_5gjmqlLTPXJbiJm4dDDpxCWY_FtOMegRJJ7E603YZv8YFX7lvnYrVieDHC3DiaTJu8UHR_umtPuJJ-4E7TkYQ-yYbczawOjiIs7pw516s-a64TBI; .AspNetCore.Antiforgery.GpHxlfmNsiU=CfDJ8FtE8TGgVhlDq3GNCwUnWuBwFShFcVx5fjozIu3NM6HQ6CTei77kCkRhmwEGS5SWlD_sfKZsKJI1fgyZhoVLjX-NO2kSkRY7-oDnRbAgYd1GilKxST6aqTb2XG2zm0Rxk8HPiX2vKrnxHXRFBF7DbGE; UNIVERSITY_LAST_VISIT=06.02.2025%2020%3A13%3A36
+header = Referer value = https://localhost:7209/Student
+header = Upgrade-Insecure-Requests value = 1
+header = sec-ch-ua value = "Not A(Brand";v="8", "Chromium";v="132", "Google Chrome";v="132"
+header = sec-ch-ua-mobile value = ?0
+header = sec-ch-ua-platform value = "Windows"
+header = sec-fetch-site value = same-origin
+header = sec-fetch-mode value = navigate
+header = sec-fetch-user value = ?1
+header = sec-fetch-dest value = document
+header = priority value = u=0, i
+-- body
+body = 
+

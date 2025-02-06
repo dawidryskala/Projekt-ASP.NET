@@ -8,7 +8,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace Data.Migrations
 {
     /// <inheritdoc />
-    public partial class InitialCreate : Migration
+    public partial class initial : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -91,6 +91,25 @@ namespace Data.Migrations
                         onDelete: ReferentialAction.Cascade);
                 });
 
+            migrationBuilder.CreateTable(
+                name: "exam",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "INTEGER", nullable: false)
+                        .Annotation("Sqlite:Autoincrement", true),
+                    Name = table.Column<string>(type: "TEXT", maxLength: 50, nullable: false),
+                    CourseId = table.Column<int>(type: "INTEGER", nullable: true)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_exam", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_exam_course_CourseId",
+                        column: x => x.CourseId,
+                        principalTable: "course",
+                        principalColumn: "Id");
+                });
+
             migrationBuilder.InsertData(
                 table: "instructor",
                 columns: new[] { "Id", "academic_title", "Name" },
@@ -141,6 +160,11 @@ namespace Data.Migrations
                 name: "IX_Enrollments_StudentID",
                 table: "Enrollments",
                 column: "StudentID");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_exam_CourseId",
+                table: "exam",
+                column: "CourseId");
         }
 
         /// <inheritdoc />
@@ -150,10 +174,13 @@ namespace Data.Migrations
                 name: "Enrollments");
 
             migrationBuilder.DropTable(
-                name: "course");
+                name: "exam");
 
             migrationBuilder.DropTable(
                 name: "student");
+
+            migrationBuilder.DropTable(
+                name: "course");
 
             migrationBuilder.DropTable(
                 name: "instructor");

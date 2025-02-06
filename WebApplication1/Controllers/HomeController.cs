@@ -15,8 +15,13 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
+            ViewData["LastVisit"] = Response.HttpContext.Items[Middleware.LastVisitMiddleware.CookieName];
             return View();
         }
+        //public IActionResult Index()
+        //{
+        //    return View();
+        //}
 
         public IActionResult Privacy()
         {
